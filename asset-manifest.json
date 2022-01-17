@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quote-app/static/css/main.7456d4ed.css",
-    "main.js": "/quote-app/static/js/main.793e5ba7.js",
+    "main.js": "/quote-app/static/js/main.f69a850e.js",
     "static/media/exchange.png": "/quote-app/static/media/exchange.6b366f1d9b55ed3d280b.png",
     "index.html": "/quote-app/index.html",
     "main.7456d4ed.css.map": "/quote-app/static/css/main.7456d4ed.css.map",
-    "main.793e5ba7.js.map": "/quote-app/static/js/main.793e5ba7.js.map"
+    "main.f69a850e.js.map": "/quote-app/static/js/main.f69a850e.js.map"
   },
   "entrypoints": [
     "static/css/main.7456d4ed.css",
-    "static/js/main.793e5ba7.js"
+    "static/js/main.f69a850e.js"
   ]
 }
