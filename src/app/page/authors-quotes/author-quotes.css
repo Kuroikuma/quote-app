@@ -1,0 +1,52 @@
+.containerAutorQuotes {
+  display: flex;
+  width: 98.7vw;
+  transform: translateY(100px);
+  height: auto;
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+}
+.containerAutorQuotes__title {
+  width: 40vw;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.containerAutorQuotes__title p {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #333333;
+}
+.containerAutorQuotes__pag {
+  width: 30%;
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 5vh;
+}
+.containerAutorQuotes__pag p {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333333;
+}
+.containerAutorQuotes__pag button {
+  width: 20%;
+  font-family: Raleway;
+  font-style: normal;
+  font-size: 16px;
+  color: #333333;
+  border: 1px solid #333333;
+  background-color: #f7df94;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 100%;
+}

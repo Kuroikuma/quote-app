@@ -1,0 +1,22 @@
+.containerRandomSearch {
+  height: 3vh;
+  width: 2vh;
+  z-index: 100;
+  cursor: pointer;
+  position: fixed;
+  right: 100px;
+  top: 20px;
+  display: flex;
+}
+.containerRandomSearch img {
+  height: 100%;
+  object-fit: contain;
+}
+.containerRandomSearch p {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 120%;
+  color: #333333;
+}

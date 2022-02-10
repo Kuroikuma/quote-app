@@ -1,0 +1,16 @@
+.containerCardQuote {
+  width: 40vw;
+  box-sizing: border-box;
+  padding-left: 50px;
+  border-left: 8px solid #f7df94;
+}
+.containerCardQuote p {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 120%;
+  /* or 43px */
+
+  color: #000000;
+}
